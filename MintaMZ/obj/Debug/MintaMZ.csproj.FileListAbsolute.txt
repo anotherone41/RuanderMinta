@@ -1,0 +1,2 @@
+C:\Users\Felhasználó\source\repos\MintaMZ\MintaMZ\obj\Debug\MintaMZ.csprojAssemblyReference.cache
+C:\Users\Felhasználó\source\repos\MintaMZ\MintaMZ\obj\Debug\MintaMZ.csproj.CoreCompileInputs.cache
